@@ -1,6 +1,6 @@
 # Engineering the Sapient Way.
 
-A PS engineer working for an Australian project:
+A [PS](who-we-are.md) engineer working for an Australian project:
 
 * Has responsibilities to their team – mentor, coach, and lead.
 * Knows engineering the Sapient way. Follows the Sapient way. Fixes it if it is broken. If they find a better way, they copy it and extend. If somebody could use it, they share it.
