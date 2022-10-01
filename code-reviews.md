@@ -78,7 +78,7 @@ Some tips for overcoming the impostor phenomenon for reviewers:
 * If you have learnt something, you can always compliment the author.
 * If possible, pair with someone to review the code so that you can establish a personal connection and have a more profound discussion about the code.
 
-## Tools
+### Tools
 
 Below are some tools which may help in establishing inclusive code review culture within our teams.
 
@@ -108,7 +108,6 @@ Our peer code reviews are structured around best practices, to find specific kin
 ## PRs are too large, how can we fix this?
 
 Make sure you size the work items into small clear chunks, so the reviewer will be able to understand the code on their own. The team is instructed to commit early, before the full product backlog item / user story is complete, but rather when an individual item is done. If the work would result in an incomplete feature, make sure it can be turned off, until the full feature is delivered.
-More information can be found in [Pull Requests - Size Guidance](./pull-requests.md#size-guidance).
 
 ## How can we expedite code reviews?
 
