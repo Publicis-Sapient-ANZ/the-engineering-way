@@ -30,7 +30,7 @@ More details on [source control](source-control.md)
 - [ ] Integration tests run to test the solution e2e.
 - [ ] Testing is a part of Engineering. Test what you build. Write the Test before you build if possible.
 
-More details on [automated testing](test-driven-development.md)
+More details on [test driven development](http://www.jamesshore.com/v2/books/aoad1/test_driven_development) and [Let's play TDD](http://www.jamesshore.com/v2/projects/lets-play-tdd)
 More details on [automated testing](automated-testing.md)
 
 ## CI/CD
