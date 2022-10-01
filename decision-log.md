@@ -15,7 +15,7 @@ Tracking an architecture design decision can have many advantages:
 
 In addition to incorporating a design decision as an update of the overall design documentation of the project, the decisions could be tracked as [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) as Michael Nygard proposed in his blog.
 
-The effort invested in design reviews and discussions can be different throughout the course of a project. Sometimes decisions are made quickly without having to go into a detailed comparison of competing technologies. In some cases, it is necessary to have a more elaborate study of advantages and disadvantages. In other cases, it can be helpful to conduct technical spikes. 
+The effort invested in design reviews and discussions can be different throughout the course of a project. Sometimes decisions are made quickly without having to go into a detailed comparison of competing technologies. In some cases, it is necessary to have a more elaborate study of advantages and disadvantages i.e. [key decisions](#key-decisions). In other cases, it can be helpful to conduct technical spikes. 
 
 An ADR can incorporate each of these different approaches.
 
@@ -79,3 +79,13 @@ A decision log is a Markdown file containing a table which provides executive su
 ### When to track ADRs
 
 Architecture design decisions are usually tracked whenever significant decisions are made that affect the structure and characteristics of the solution or framework we are building. ADRs can also be used to document results of spikes when evaluating different technology choices.
+
+## Key Decisions
+
+Major technical decisions can vary widely in scope; however, they follow the common pattern below:
+
+- Solidify the requirements – Work with the stakeholders to agree on the requirements for the functionality that you are trying to build.
+- Create evaluation criteria – This is a set of qualitative and quantitative assessment points that represent the requirements. Taken together, they become an easy to measure stand-in for the potentially abstract requirements.
+- Brainstorm solutions – Gather a list of possible solutions to the problem. Then, use your best judgement to pick the 2-4 solutions that seem most promising. For assistance narrowing solutions, remember to reach out to subject-matter experts and other teams who may have gone through a similar decision.
+- Evaluate shortlisted solutions – Dive deep into each solution and measure it against the evaluation criteria. In this stage, time box your research to avoid overly investing in any given area.
+- Compare results and choose solution - Align the decision with the team. If you are unable to decide, then a clear list of action items and owners to drive the final decision must be produced.
