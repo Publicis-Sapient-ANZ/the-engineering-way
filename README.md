@@ -7,13 +7,14 @@ A PS engineer working for an Australian project:
 * Leads by example. Models the behaviours we desire both interpersonally and technically.
 * Strives to understand how their work fits into a broader context and ensures the outcome.
 
-## Why Have the Sapient Way?
+## Why have the Sapient Way?
 
 * To increase overall efficiency for team members and the whole team in general.
 * Reduce the number of mistakes and avoid common pitfalls.
 * Strive to be a better engineer and learn from other people's shared experience.
 * To provide customers with the better engineering outcomes
 * To codify our engineering culture and share it with all.
+* The Sapient way is our engineering culutre codified. Without it we're not adding much significant value over a generic staffing agency.
 
 
 ## "The" Basics
@@ -32,12 +33,6 @@ If you do nothing else follow the [Engineering Basics](ENG-basics.md)! It's here
 * Keep backlog item details up to date to communicate the state of things with the rest of your team.
 * Report product issues found and provide clear and repeatable engineering feedback!
 * We all own our code and each one of us has an obligation to make all parts of the solution great.
-
-
-## Engineering Fundamentals
-
-TBC
-
 
 ## Contributing
 
