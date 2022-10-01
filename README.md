@@ -38,3 +38,4 @@ If you do nothing else follow the [Engineering Basics](ENG-basics.md)! It's here
 
 This is our Sapient Way. All contributions welcome! Please feel free to submit a [pull request]() to get involved.
 
+This guide was inspired by the work done by the Microsoft CSE team here:https://github.com/microsoft/code-with-engineering-playbook/ and extended by the good folks of Publicis Sapient.
