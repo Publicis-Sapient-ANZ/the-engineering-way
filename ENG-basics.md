@@ -92,8 +92,8 @@ More details on [code reviews](code-reviews.md)
 - [ ] The team submits feedback on business and technical blockers that prevent project success
 - [ ] Suggestions for improvements are incorporated in the solution
 - [ ] Feedback is detailed and repeatable
+- [ ] Feedback is timely so leadership within or external to the team can action it
 
-More details on [engineering feedback](engineering-feedback.md)
 
 ## Developer Experience (DevEx)
 
