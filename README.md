@@ -14,7 +14,7 @@ A [PS](who-we-are.md) engineer working for an Australian project:
 * Strive to be a better engineer and learn from other people's shared experience.
 * To provide customers with the better engineering outcomes
 * To codify our engineering culture and share it with all.
-* The Sapient way is our engineering culutre codified. Without it we're not adding much significant value over a generic staffing agency.
+* The Sapient way is our engineering culture codified. Without it we're not adding much significant value over a generic staffing agency.
 
 
 ## "The" Basics
