@@ -18,7 +18,7 @@ A PS engineer working for an Australian project:
 
 ## "The" Basics
 
-If you do nothing else follow the [Engineering Basics](ENG-Basics.md)! It's here to help you get started on this journey.
+If you do nothing else follow the [Engineering Basics](ENG-basics.md)! It's here to help you get started on this journey.
 
 ## General Guidance 
 

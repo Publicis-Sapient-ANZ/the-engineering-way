@@ -12,7 +12,7 @@ It doesnt matter if you are a veteran engineering or a begineer. Everyone can be
 - [ ] Commit history is consistent and commit messages are informative (what, why).
 - [ ] Consistent branch naming conventions.
 - [ ] Clear documentation of repository structure.
-- [ ] Secrets are not part of the commit history or made public. (see [Credential scanning](continuous-integration/dev-sec-ops/secret-management/credential_scanning.md))
+- [ ] Secrets are not part of the commit history or made public.
 
 More details on [source control](source-control.md)
 
