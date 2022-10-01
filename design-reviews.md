@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Goals](#goals)
+- [Process](#design-review-process)
 - [Measures](#measures)
 - [Impact](#impact)
 - [Participation](#participation)
@@ -21,6 +22,26 @@ Design reviews should not feel like a burden. Design reviews can be easily incor
 - Leverage this guidance to make changes that best fit in with the team. Every team works differently.
 - Leverage subject-matter experts (SMEs) as needed during design reviews. Not every story needs SME or leadership sign-off. Most design reviews can be fully executed within an engineering team.
 - Use diagrams to visualize concepts and architecture. Be consistent in your diagram style, tooling and layout.
+
+## Design Review Process
+
+Incorporate design reviews throughout the lifetime of an engagement. As an overall for the project you should have a high level architecture and design document. It Includes technologies, languages & products to complete engagement objective.
+
+### Milestone / Epic Design Review
+- Should be considered when an engagement contains multiple milestones or epics
+- Design should be more detailed than game plan
+- May require unique deployment, security and/or privacy characteristics from other milestones
+
+### Feature/story design review
+- Design for complex features or stories
+- Will reuse deployment, security and other characteristics defined within high level architecture or milestone
+- May require new libraries, OSS or patterns to accomplish goals
+
+### Task design review
+- Highly detailed design for a complex tasks with many unknowns
+- Will integrate into higher level feature/component designs
+- Explicit sessions for this level of design is uncommon on most projects, and happens on the fly between engineers or at code review stage.
+
 
 ## Measures
 
