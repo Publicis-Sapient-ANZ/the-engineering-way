@@ -114,7 +114,8 @@ The project's README clearly describes how developers on the team can:
 
 More details on [developer experience](developer-experience.md)
 
-
 ## Additional Advice for Engineering Leaders
 
-[Building reliable systems](building-for-reliability.md)
+* [Building reliable systems](building-for-reliability.md)
+* [Book List](book-list.md)
+* [Technical Papers worth reading](technical-papers.md)
