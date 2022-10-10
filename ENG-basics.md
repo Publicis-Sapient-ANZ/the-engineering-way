@@ -108,8 +108,8 @@ Developers on the team can:
 
 More details on [developer experience](developer-experience.md)
 
-## Additional Advice for Engineering Leaders
+## Additional Advice for Engineering Leaders and Staff alike.
 
-[Building reliable systems](building-for-reliability.md)
-[Book List](book-list.md)
-[Technical Papers worth reading](technical-papers.md)
+* [Building reliable systems](building-for-reliability.md)
+* [Book List](book-list.md)
+* [Technical Papers worth reading](technical-papers.md)
