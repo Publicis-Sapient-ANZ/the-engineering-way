@@ -19,9 +19,9 @@ A [PS](who-we-are.md) engineer working for an Australian project:
 
 ## "The" Basics
 
-If you do nothing else follow the [Engineering Basics](ENG-basics.md)! It's here to help you get started on this journey.
+If you do nothing else follow the [Engineering Basics](engineering-basics.md)! It's here to help you get started on this journey.
 
-## General Guidance 
+## General Guidance
 
 * Keep the code quality bar high.
 * Value quality and precision over ‘getting things done’.
